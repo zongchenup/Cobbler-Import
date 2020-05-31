@@ -1,3 +1,6 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/zongchenup/cobbler-import/badge/master)](https://www.codefactor.io/repository/github/zongchenup/cobbler-import/overview/master)
+[![BCH compliance](https://bettercodehub.com/edge/badge/zongchenup/Cobbler-Import?branch=master)](https://bettercodehub.com/)
+[![code-inspector](https://www.code-inspector.com/project/8727/score/svg)](https://www.code-inspector.com/project/8727/score/svg)
 # Cobbler-Import
 
 ## 脚本功能
